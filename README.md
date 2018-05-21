@@ -1,3 +1,5 @@
+All methods are related to Enterobase, so it is recommended to use entrobase website [http://enterobase.warwick.ac.uk/]. Users can submit and query their jobs status and also get the results which are kept in the system database, the user can also share his job/s with other users. Please read full documents at at http://enterobase.readthedocs.io/en/	
+
 # EToKi (Enterobase Tool Kit)
 all methods related to Enterobase
 
